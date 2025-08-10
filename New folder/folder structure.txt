@@ -1,0 +1,19 @@
+school-website/
+├── index.html
+├── about.html
+├── academics.html
+├── admission.html
+├── faculty.html
+├── students.html
+├── gallery.html
+├── contact.html
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+├── js/
+│   ├── main.js
+├── images/
+│   ├── logo.png
+│   ├── banner.jpg
+│   ├── gallery/
+├── bangla.js (বাংলা কন্টেন্ট)
